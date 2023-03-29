@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../AI Object Finder Webapp"
+		},
+		{
+			"path": "../../c 126 project"
+		},
+		{
+			"path": "../../c 138"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "138 project"
+	}
+}
